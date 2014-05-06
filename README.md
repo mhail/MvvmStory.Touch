@@ -2,7 +2,7 @@ MvvmStory.Touch
 ==
 
 This is a MvvmCross plugin to auto load views from storyboards.
-  This includes a ```[StoryBoard]``` attribute for marking ViewControllers and
+  This includes a ```[Storyboard]``` attribute for marking ViewControllers and
     linking the storyboard name and id
       ```[Storybard(Name="Main", Id = "MainView")]``` .
 
